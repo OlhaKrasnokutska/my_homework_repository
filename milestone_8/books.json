@@ -1,0 +1,212 @@
+[
+    {
+        "id": 1,
+        "title": "The Alchemist",
+        "author": "Paulo Coelho",
+        "category": "Fiction",
+        "year_of_publishing": 1988
+    },
+    {
+        "id": 2,
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "category": "Fiction",
+        "year_of_publishing": 1960
+    },
+    {
+        "id": 3,
+        "title": "Nineteen Eighty-Four",
+        "author": "George Orwell",
+        "category": "Science Fiction",
+        "year_of_publishing": 1949
+    },
+    {
+        "id": 4,
+        "title": "Brave New World",
+        "author": "Aldous Huxley",
+        "category": "Science Fiction",
+        "year_of_publishing": 1932
+    },
+    {
+        "id": 5,
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "category": "Literature",
+        "year_of_publishing": 1951
+    },
+    {
+        "id": 6,
+        "title": "The Bell Jar",
+        "author": "Sylvia Plath",
+        "category": "Literature",
+        "year_of_publishing": 1963
+    },
+    {
+        "id": 7,
+        "title": "Harry Potter and the Philosopher's Stone",
+        "author": "J.K. Rowling",
+        "category": "Fantasy",
+        "year_of_publishing": 1997
+    },
+    {
+        "id": 8,
+        "title": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "category": "Fantasy",
+        "year_of_publishing": 1937
+    },
+    {
+        "id": 9,
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "category": "Romance",
+        "year_of_publishing": 1813
+    },
+    {
+        "id": 10,
+        "title": "Animal Farm",
+        "author": "George Orwell",
+        "category": "Satire",
+        "year_of_publishing": 1945
+    },
+    {
+        "id": 11,
+        "title": "Lord of the Flies",
+        "author": "William Golding",
+        "category": "Adventure",
+        "year_of_publishing": 1954
+    },
+    {
+        "id": 12,
+        "title": "The Hunger Games",
+        "author": "Suzanne Collins",
+        "category": "Dystopian",
+        "year_of_publishing": 2008
+    },
+    {
+        "id": 13,
+        "title": "The Perks of Being a Wallflower",
+        "author": "Stephen Chbosky",
+        "category": "Coming of Age",
+        "year_of_publishing": 1999
+    },
+    {
+        "id": 14,
+        "title": "The Fault in Our Stars",
+        "author": "John Green",
+        "category": "Young Adult",
+        "year_of_publishing": 2012
+    },
+    {
+        "id": 15,
+        "title": "Harry Potter and the Chamber of Secrets",
+        "author": "J.K. Rowling",
+        "category": "Fantasy",
+        "year_of_publishing": 1998
+    },
+    {
+        "id": 16,
+        "title": "The Lord of the Rings",
+        "author": "J.R.R. Tolkien",
+        "category": "Fantasy",
+        "year_of_publishing": 1954
+    },
+    {
+        "id": 17,
+        "title": "Moby-Dick",
+        "author": "Herman Melville",
+        "category": "Classic",
+        "year_of_publishing": 1851
+    },
+    {
+        "id": 18,
+        "title": "Crime and Punishment",
+        "author": "Fyodor Dostoevsky",
+        "category": "Classic",
+        "year_of_publishing": 1866
+    },
+    {
+        "id": 19,
+        "title": "The Picture of Dorian Gray",
+        "author": "Oscar Wilde",
+        "category": "Classic",
+        "year_of_publishing": 1890
+    },
+    {
+        "id": 20,
+        "title": "Frankenstein",
+        "author": "Mary Shelley",
+        "category": "Classic",
+        "year_of_publishing": 1818
+    },
+    {
+        "id": 21,
+        "title": "The Adventures of Sherlock Holmes",
+        "author": "Arthur Conan Doyle",
+        "category": "Mystery",
+        "year_of_publishing": 1892
+    },
+    {
+        "id": 22,
+        "title": "The Girl with the Dragon Tattoo",
+        "author": "Stieg Larsson",
+        "category": "Mystery",
+        "year_of_publishing": 2005
+    },
+    {
+        "id": 23,
+        "title": "Gone Girl",
+        "author": "Gillian Flynn",
+        "category": "Mystery",
+        "year_of_publishing": 2012
+    },
+    {
+        "id": 24,
+        "title": "The Da Vinci Code",
+        "author": "Dan Brown",
+        "category": "Thriller",
+        "year_of_publishing": 2003
+    },
+    {
+        "id": 25,
+        "title": "The Girl on the Train",
+        "author": "Paula Hawkins",
+        "category": "Thriller",
+        "year_of_publishing": 2015
+    },
+    {
+        "id": 26,
+        "title": "Jurassic Park",
+        "author": "Michael Crichton",
+        "category": "Science Fiction",
+        "year_of_publishing": 1990
+    },
+    {
+        "id": 27,
+        "title": "Foundation",
+        "author": "Isaac Asimov",
+        "category": "Science Fiction",
+        "year_of_publishing": 1951
+    },
+    {
+        "id": 28,
+        "title": "Do Androids Dream of Electric Sheep?",
+        "author": "Philip K. Dick",
+        "category": "Science Fiction",
+        "year_of_publishing": 1968
+    },
+    {
+        "id": 29,
+        "title": "The Hitchhiker's Guide to the Galaxy",
+        "author": "Douglas Adams",
+        "category": "Science Fiction",
+        "year_of_publishing": 1979
+    },
+    {
+        "id": 30,
+        "title": "The Name of the Wind",
+        "author": "Patrick Rothfuss",
+        "category": "Fantasy",
+        "year_of_publishing": 2007
+    }
+    ]
