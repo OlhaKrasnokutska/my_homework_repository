@@ -9,7 +9,7 @@ milestone #2: [link2]
 milestone #3: [link3]
 milestone #4: [link4]
 milestone #5: [link5]
-
+milestone #7: [link7]
 
 
 
@@ -20,3 +20,4 @@ milestone #5: [link5]
 [link3]: https://github.com/OlhaKrasnokutska/my_homework_repository/tree/master/milestone_3
 [link4]: https://github.com/OlhaKrasnokutska/my_homework_repository/tree/master/milestone_4
 [link5]: https://github.com/OlhaKrasnokutska/my_homework_repository/tree/master/milestone_5
+[link7]: https://github.com/OlhaKrasnokutska/my_homework_repository/tree/master/milestone_7
