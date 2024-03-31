@@ -1,0 +1,24 @@
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+
+# Ignore XML files
+*.xml
+
+# Ignore environment-specific settings
+.env
+
+# Ignore macOS .DS_Store files
+.DS_Store
+
+# Ignore virtual environment folders
+venv/
+.env/
+
+# Ignore IDE files
+.vscode/
+.idea/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
