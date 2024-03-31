@@ -11,6 +11,7 @@ milestone #4: [link4]
 milestone #5: [link5]
 milestone #7: [link7]
 milestone #8: [link8]
+milestone #10: [link10]
 
 
 
@@ -23,3 +24,4 @@ milestone #8: [link8]
 [link5]: https://github.com/OlhaKrasnokutska/my_homework_repository/tree/master/milestone_5
 [link7]: https://github.com/OlhaKrasnokutska/my_homework_repository/tree/master/milestone_7
 [link8]: https://github.com/OlhaKrasnokutska/my_homework_repository/tree/master/milestone_8
+[link10]: https://github.com/OlhaKrasnokutska/my_homework_repository/tree/master/milestone_10
